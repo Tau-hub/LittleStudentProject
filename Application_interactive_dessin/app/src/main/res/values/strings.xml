@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Drawing</string>
+    <string name="your_ip">Your ip</string>
+    <string name="users_list">Users list</string>
+    <string name="ip">IP</string>
+    <string name="x_x_x_x">X.X.X.X</string>
+    <string name="connect">Connect</string>
+    <string name="entrez_votre_pseudo">Entrez votre pseudo:</string>
+    <string name="ok">OK</string>
+    <string name="ex_mypseudo">Ex: Mypseudo</string>
+    <string name="mypseudo">Mypseudo</string>
+    <string name="textview">TextView</string>
+    <string name="title_info">Info</string>
+    <string name="title_refresh">Refresh</string>
+    <string name="title_join">Join</string>
+    <string name="title_host">Host</string>
+    <string name="title_pseudo">Pseudo</string>
+    <string name="title_Disonnect">Disconnect</string>
+
+</resources>
